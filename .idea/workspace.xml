@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c77a8782-9dac-48f4-8a21-eba09868798d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568825396790</updated>
       <workItem from="1568825399019" duration="1832000" />
-      <workItem from="1568923959582" duration="464000" />
+      <workItem from="1568923959582" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary="branch güncellendi.">
       <created>1568832308594</created>
@@ -67,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568832391524</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="slaytlar düzenlendi.&#10;ingilizce çeviri uygulandı.">
+      <created>1568924490166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568924490166</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="branch güncellendi." />
-    <option name="LAST_COMMIT_MESSAGE" value="branch güncellendi." />
+    <MESSAGE value="slaytlar düzenlendi.&#10;ingilizce çeviri uygulandı." />
+    <option name="LAST_COMMIT_MESSAGE" value="slaytlar düzenlendi.&#10;ingilizce çeviri uygulandı." />
   </component>
 </project>
